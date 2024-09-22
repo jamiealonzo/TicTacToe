@@ -17,5 +17,5 @@ Technologies Used:
 HTML: For the structure of the game.
 CSS: For styling and animations.
 JavaScript: For game logic and dynamic interactions.
-Feel free to clone, fork, or contribute to the project!
+
 
