@@ -1,4 +1,4 @@
-🎮 Playful Tic Tac Toe Game 🎉
+##🎮 Playful Tic Tac Toe Game 🎉
 This is a fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game features a colorful light pink design, playful animations, and a user-friendly interface. Players can enjoy the classic Tic Tac Toe experience with added visual effects and a dedicated screen to display the game’s result (win or draw).
 
 Features:
